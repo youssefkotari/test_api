@@ -1,0 +1,422 @@
+[
+    {
+        "model": "products.product",
+        "pk": 1,
+        "fields": {
+            "name": "Laptop",
+            "description": "High-performance laptop",
+            "price": "1200.00",
+            "category": 1,
+            "image": null,
+            "rating": "4.5",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 2,
+        "fields": {
+            "name": "Smartphone",
+            "description": "Latest smartphone model",
+            "price": "800.00",
+            "category": 1,
+            "image": null,
+            "rating": "4.0",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 3,
+        "fields": {
+            "name": "T-shirt",
+            "description": "Cotton t-shirt",
+            "price": "20.00",
+            "category": 2,
+            "image": null,
+            "rating": "4.2",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 4,
+        "fields": {
+            "name": "Jeans",
+            "description": "Slim-fit jeans",
+            "price": "50.00",
+            "category": 2,
+            "image": null,
+            "rating": "4.1",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 5,
+        "fields": {
+            "name": "Python Programming Book",
+            "description": "Learn Python programming",
+            "price": "30.00",
+            "category": 3,
+            "image": null,
+            "rating": "4.6",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 6,
+        "fields": {
+            "name": "Home Theater System",
+            "description": "High-quality sound system",
+            "price": "500.00",
+            "category": 4,
+            "image": null,
+            "rating": "4.3",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 7,
+        "fields": {
+            "name": "Microwave Oven",
+            "description": "Stainless steel microwave oven",
+            "price": "150.00",
+            "category": 4,
+            "image": null,
+            "rating": "4.0",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 8,
+        "fields": {
+            "name": "Football",
+            "description": "Official size and weight",
+            "price": "30.00",
+            "category": 5,
+            "image": null,
+            "rating": "4.5",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 9,
+        "fields": {
+            "name": "Running Shoes",
+            "description": "Lightweight running shoes",
+            "price": "80.00",
+            "category": 5,
+            "image": null,
+            "rating": "4.4",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 10,
+        "fields": {
+            "name": "Gaming Laptop",
+            "description": "Ultimate gaming experience",
+            "price": "2000.00",
+            "category": 1,
+            "image": null,
+            "rating": "4.8",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 11,
+        "fields": {
+            "name": "Gaming Console",
+            "description": "Next-gen gaming console",
+            "price": "400.00",
+            "category": 1,
+            "image": null,
+            "rating": "4.7",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 12,
+        "fields": {
+            "name": "Dress Shirt",
+            "description": "Formal dress shirt",
+            "price": "60.00",
+            "category": 2,
+            "image": null,
+            "rating": "4.3",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 13,
+        "fields": {
+            "name": "Sneakers",
+            "description": "Casual sneakers",
+            "price": "70.00",
+            "category": 2,
+            "image": null,
+            "rating": "4.4",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 14,
+        "fields": {
+            "name": "Data Science Book",
+            "description": "Learn data science",
+            "price": "35.00",
+            "category": 3,
+            "image": null,
+            "rating": "4.7",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 15,
+        "fields": {
+            "name": "Refrigerator",
+            "description": "Energy-efficient refrigerator",
+            "price": "800.00",
+            "category": 4,
+            "image": null,
+            "rating": "4.2",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 16,
+        "fields": {
+            "name": "Coffee Maker",
+            "description": "Programmable coffee maker",
+            "price": "100.00",
+            "category": 4,
+            "image": null,
+            "rating": "4.0",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 17,
+        "fields": {
+            "name": "Basketball",
+            "description": "Official size and weight",
+            "price": "25.00",
+            "category": 5,
+            "image": null,
+            "rating": "4.6",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 18,
+        "fields": {
+            "name": "Gym Shorts",
+            "description": "Comfortable gym shorts",
+            "price": "15.00",
+            "category": 5,
+            "image": null,
+            "rating": "4.1",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 19,
+        "fields": {
+            "name": "Wireless Mouse",
+            "description": "Ergonomic wireless mouse",
+            "price": "40.00",
+            "category": 1,
+            "image": null,
+            "rating": "4.5",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 20,
+        "fields": {
+            "name": "External Hard Drive",
+            "description": "1TB external hard drive",
+            "price": "70.00",
+            "category": 1,
+            "image": null,
+            "rating": "4.4",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 21,
+        "fields": {
+            "name": "Dress Shoes",
+            "description": "Leather dress shoes",
+            "price": "90.00",
+            "category": 2,
+            "image": null,
+            "rating": "4.3",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 22,
+        "fields": {
+            "name": "Backpack",
+            "description": "Water-resistant backpack",
+            "price": "50.00",
+            "category": 2,
+            "image": null,
+            "rating": "4.2",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 23,
+        "fields": {
+            "name": "Machine Learning Book",
+            "description": "Learn machine learning",
+            "price": "45.00",
+            "category": 3,
+            "image": null,
+            "rating": "4.8",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 24,
+        "fields": {
+            "name": "Air Fryer",
+            "description": "Oil-less air fryer",
+            "price": "120.00",
+            "category": 4,
+            "image": null,
+            "rating": "4.6",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 25,
+        "fields": {
+            "name": "Blender",
+            "description": "High-speed blender",
+            "price": "80.00",
+            "category": 4,
+            "image": null,
+            "rating": "4.4",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 26,
+        "fields": {
+            "name": "Volleyball",
+            "description": "Official size and weight",
+            "price": "20.00",
+            "category": 5,
+            "image": null,
+            "rating": "4.3",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 27,
+        "fields": {
+            "name": "Yoga Mat",
+            "description": "Non-slip yoga mat",
+            "price": "30.00",
+            "category": 5,
+            "image": null,
+            "rating": "4.2",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 28,
+        "fields": {
+            "name": "Wireless Keyboard",
+            "description": "Slim wireless keyboard",
+            "price": "50.00",
+            "category": 1,
+            "image": null,
+            "rating": "4.7",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 29,
+        "fields": {
+            "name": "USB-C Hub",
+            "description": "Multi-port USB-C hub",
+            "price": "60.00",
+            "category": 1,
+            "image": null,
+            "rating": "4.6",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 30,
+        "fields": {
+            "name": "Leather Belt",
+            "description": "Genuine leather belt",
+            "price": "40.00",
+            "category": 2,
+            "image": null,
+            "rating": "4.5",
+            "created_at": "2024-04-05T12:00:00Z",
+            "updated_at": "2024-04-05T12:00:00Z"
+        }
+    }
+]

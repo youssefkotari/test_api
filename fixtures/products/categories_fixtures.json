@@ -1,0 +1,142 @@
+[
+    {
+        "model": "dummy_products.Category",
+        "pk": 1,
+        "fields": {
+            "name": "smartphones"
+        }
+    },
+    {
+        "model": "dummy_products.Category",
+        "pk": 2,
+        "fields": {
+            "name": "laptops"
+        }
+    },
+    {
+        "model": "dummy_products.Category",
+        "pk": 3,
+        "fields": {
+            "name": "fragrances"
+        }
+    },
+    {
+        "model": "dummy_products.Category",
+        "pk": 4,
+        "fields": {
+            "name": "skincare"
+        }
+    },
+    {
+        "model": "dummy_products.Category",
+        "pk": 5,
+        "fields": {
+            "name": "groceries"
+        }
+    },
+    {
+        "model": "dummy_products.Category",
+        "pk": 6,
+        "fields": {
+            "name": "home-decoration"
+        }
+    },
+    {
+        "model": "dummy_products.Category",
+        "pk": 7,
+        "fields": {
+            "name": "furniture"
+        }
+    },
+    {
+        "model": "dummy_products.Category",
+        "pk": 8,
+        "fields": {
+            "name": "tops"
+        }
+    },
+    {
+        "model": "dummy_products.Category",
+        "pk": 9,
+        "fields": {
+            "name": "womens-dresses"
+        }
+    },
+    {
+        "model": "dummy_products.Category",
+        "pk": 10,
+        "fields": {
+            "name": "womens-shoes"
+        }
+    },
+    {
+        "model": "dummy_products.Category",
+        "pk": 11,
+        "fields": {
+            "name": "mens-shirts"
+        }
+    },
+    {
+        "model": "dummy_products.Category",
+        "pk": 12,
+        "fields": {
+            "name": "mens-shoes"
+        }
+    },
+    {
+        "model": "dummy_products.Category",
+        "pk": 13,
+        "fields": {
+            "name": "mens-watches"
+        }
+    },
+    {
+        "model": "dummy_products.Category",
+        "pk": 14,
+        "fields": {
+            "name": "womens-watches"
+        }
+    },
+    {
+        "model": "dummy_products.Category",
+        "pk": 15,
+        "fields": {
+            "name": "womens-bags"
+        }
+    },
+    {
+        "model": "dummy_products.Category",
+        "pk": 16,
+        "fields": {
+            "name": "womens-jewellery"
+        }
+    },
+    {
+        "model": "dummy_products.Category",
+        "pk": 17,
+        "fields": {
+            "name": "sunglasses"
+        }
+    },
+    {
+        "model": "dummy_products.Category",
+        "pk": 18,
+        "fields": {
+            "name": "automotive"
+        }
+    },
+    {
+        "model": "dummy_products.Category",
+        "pk": 19,
+        "fields": {
+            "name": "motorcycle"
+        }
+    },
+    {
+        "model": "dummy_products.Category",
+        "pk": 20,
+        "fields": {
+            "name": "lighting"
+        }
+    }
+]

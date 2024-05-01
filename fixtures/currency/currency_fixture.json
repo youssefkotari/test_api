@@ -1,0 +1,1498 @@
+[
+    {
+        "model": "convertor.currency",
+        "pk": 1,
+        "fields": {
+            "code": "ADA",
+            "rate": 2.1394148241
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 2,
+        "fields": {
+            "code": "AED",
+            "rate": 3.6725305525
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 3,
+        "fields": {
+            "code": "AFN",
+            "rate": 72.1167136879
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 4,
+        "fields": {
+            "code": "ALL",
+            "rate": 94.0323526516
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 5,
+        "fields": {
+            "code": "AMD",
+            "rate": 388.6738200338
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 6,
+        "fields": {
+            "code": "ANG",
+            "rate": 1.7862303376
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 7,
+        "fields": {
+            "code": "AOA",
+            "rate": 833.8563416225
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 8,
+        "fields": {
+            "code": "ARB",
+            "rate": 0.8892712175
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 9,
+        "fields": {
+            "code": "ARS",
+            "rate": 874.5399116841
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 10,
+        "fields": {
+            "code": "AUD",
+            "rate": 1.5308702949
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 11,
+        "fields": {
+            "code": "AVAX",
+            "rate": 0.0290055721
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 12,
+        "fields": {
+            "code": "AWG",
+            "rate": 1.79
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 13,
+        "fields": {
+            "code": "AZN",
+            "rate": 1.7
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 14,
+        "fields": {
+            "code": "BAM",
+            "rate": 1.8281302454
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 15,
+        "fields": {
+            "code": "BBD",
+            "rate": 2
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 16,
+        "fields": {
+            "code": "BDT",
+            "rate": 110.0960632644
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 17,
+        "fields": {
+            "code": "BGN",
+            "rate": 1.8199203257
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 18,
+        "fields": {
+            "code": "BHD",
+            "rate": 0.376
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 19,
+        "fields": {
+            "code": "BIF",
+            "rate": 2866.4641914953
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 20,
+        "fields": {
+            "code": "BMD",
+            "rate": 1
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 21,
+        "fields": {
+            "code": "BNB",
+            "rate": 0.001672465
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 22,
+        "fields": {
+            "code": "BND",
+            "rate": 1.3619702602
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 23,
+        "fields": {
+            "code": "BOB",
+            "rate": 6.9092509154
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 24,
+        "fields": {
+            "code": "BRL",
+            "rate": 5.1167808492
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 25,
+        "fields": {
+            "code": "BSD",
+            "rate": 1
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 26,
+        "fields": {
+            "code": "BTC",
+            "rate": 1.57319e-05
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 27,
+        "fields": {
+            "code": "BTN",
+            "rate": 83.2911957869
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 28,
+        "fields": {
+            "code": "BWP",
+            "rate": 13.7990222025
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 29,
+        "fields": {
+            "code": "BYN",
+            "rate": 3.2744885453
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 30,
+        "fields": {
+            "code": "BYR",
+            "rate": 32744.896942605
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 31,
+        "fields": {
+            "code": "BZD",
+            "rate": 2
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 32,
+        "fields": {
+            "code": "CAD",
+            "rate": 1.366740197
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 33,
+        "fields": {
+            "code": "CDF",
+            "rate": 2788.002737383
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 34,
+        "fields": {
+            "code": "CHF",
+            "rate": 0.9137401118
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 35,
+        "fields": {
+            "code": "CLF",
+            "rate": 0.0251300029
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 36,
+        "fields": {
+            "code": "CLP",
+            "rate": 950.2002116131
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 37,
+        "fields": {
+            "code": "CNY",
+            "rate": 7.2445910741
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 38,
+        "fields": {
+            "code": "COP",
+            "rate": 3893.7657727762
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 39,
+        "fields": {
+            "code": "CRC",
+            "rate": 504.3560657329
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 40,
+        "fields": {
+            "code": "CUC",
+            "rate": 1
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 41,
+        "fields": {
+            "code": "CUP",
+            "rate": 24
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 42,
+        "fields": {
+            "code": "CVE",
+            "rate": 103.1063091172
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 43,
+        "fields": {
+            "code": "CZK",
+            "rate": 23.49896398
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 44,
+        "fields": {
+            "code": "DAI",
+            "rate": 0.9990403667
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 45,
+        "fields": {
+            "code": "DJF",
+            "rate": 177.721
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 46,
+        "fields": {
+            "code": "DKK",
+            "rate": 6.9746308987
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 47,
+        "fields": {
+            "code": "DOP",
+            "rate": 58.5747713733
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 48,
+        "fields": {
+            "code": "DOT",
+            "rate": 0.1468089638
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 49,
+        "fields": {
+            "code": "DZD",
+            "rate": 135.132876669
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 50,
+        "fields": {
+            "code": "EGP",
+            "rate": 47.9028381668
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 51,
+        "fields": {
+            "code": "ERN",
+            "rate": 15
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 52,
+        "fields": {
+            "code": "ETB",
+            "rate": 57.4672685144
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 53,
+        "fields": {
+            "code": "ETH",
+            "rate": 0.0003067911
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 54,
+        "fields": {
+            "code": "EUR",
+            "rate": 0.9346601356
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 55,
+        "fields": {
+            "code": "FJD",
+            "rate": 2.2621002326
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 56,
+        "fields": {
+            "code": "FKP",
+            "rate": 0.8007616577
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 57,
+        "fields": {
+            "code": "GBP",
+            "rate": 0.8003800938
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 58,
+        "fields": {
+            "code": "GEL",
+            "rate": 2.6859304981
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 59,
+        "fields": {
+            "code": "GGP",
+            "rate": 0.8007616147
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 60,
+        "fields": {
+            "code": "GHS",
+            "rate": 13.5029625737
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 61,
+        "fields": {
+            "code": "GIP",
+            "rate": 0.8007613324
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 62,
+        "fields": {
+            "code": "GMD",
+            "rate": 59.2877512192
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 63,
+        "fields": {
+            "code": "GNF",
+            "rate": 8548.5848299662
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 64,
+        "fields": {
+            "code": "GTQ",
+            "rate": 7.7683508497
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 65,
+        "fields": {
+            "code": "GYD",
+            "rate": 208.8514736411
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 66,
+        "fields": {
+            "code": "HKD",
+            "rate": 7.826781032
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 67,
+        "fields": {
+            "code": "HNL",
+            "rate": 24.685294339
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 68,
+        "fields": {
+            "code": "HRK",
+            "rate": 6.7756413096
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 69,
+        "fields": {
+            "code": "HTG",
+            "rate": 134.2820842264
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 70,
+        "fields": {
+            "code": "HUF",
+            "rate": 366.5303770627
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 71,
+        "fields": {
+            "code": "IDR",
+            "rate": 16186.732145695
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 72,
+        "fields": {
+            "code": "ILS",
+            "rate": 3.8104905019
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 73,
+        "fields": {
+            "code": "IMP",
+            "rate": 0.800761735
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 74,
+        "fields": {
+            "code": "INR",
+            "rate": 83.3560192492
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 75,
+        "fields": {
+            "code": "IQD",
+            "rate": 1308.0680769338
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 76,
+        "fields": {
+            "code": "IRR",
+            "rate": 42004.008954339
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 77,
+        "fields": {
+            "code": "ISK",
+            "rate": 140.0488401518
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 78,
+        "fields": {
+            "code": "JEP",
+            "rate": 0.8007615894
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 79,
+        "fields": {
+            "code": "JMD",
+            "rate": 156.0797400976
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 80,
+        "fields": {
+            "code": "JOD",
+            "rate": 0.71
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 81,
+        "fields": {
+            "code": "JPY",
+            "rate": 158.3368243647
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 82,
+        "fields": {
+            "code": "KES",
+            "rate": 134.6165020536
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 83,
+        "fields": {
+            "code": "KGS",
+            "rate": 88.9339064339
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 84,
+        "fields": {
+            "code": "KHR",
+            "rate": 4056.3154448898
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 85,
+        "fields": {
+            "code": "KMF",
+            "rate": 458.0751513429
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 86,
+        "fields": {
+            "code": "KPW",
+            "rate": 900
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 87,
+        "fields": {
+            "code": "KRW",
+            "rate": 1374.988136226
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 88,
+        "fields": {
+            "code": "KWD",
+            "rate": 0.307560044
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 89,
+        "fields": {
+            "code": "KYD",
+            "rate": 0.83333
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 90,
+        "fields": {
+            "code": "KZT",
+            "rate": 441.2766904464
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 91,
+        "fields": {
+            "code": "LAK",
+            "rate": 21337.125622809
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 92,
+        "fields": {
+            "code": "LBP",
+            "rate": 89554.203225861
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 93,
+        "fields": {
+            "code": "LKR",
+            "rate": 296.0317344269
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 94,
+        "fields": {
+            "code": "LRD",
+            "rate": 193.6497729299
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 95,
+        "fields": {
+            "code": "LSL",
+            "rate": 19.0090431366
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 96,
+        "fields": {
+            "code": "LTC",
+            "rate": 0.0119107735
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 97,
+        "fields": {
+            "code": "LTL",
+            "rate": 3.2263722251
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 98,
+        "fields": {
+            "code": "LVL",
+            "rate": 0.6567119791
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 99,
+        "fields": {
+            "code": "LYD",
+            "rate": 4.8617309365
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 100,
+        "fields": {
+            "code": "MAD",
+            "rate": 10.1282215867
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 101,
+        "fields": {
+            "code": "MATIC",
+            "rate": 1.365600741
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 102,
+        "fields": {
+            "code": "MDL",
+            "rate": 17.7306727002
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 103,
+        "fields": {
+            "code": "MGA",
+            "rate": 4436.0260169115
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 104,
+        "fields": {
+            "code": "MKD",
+            "rate": 57.3541794164
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 105,
+        "fields": {
+            "code": "MMK",
+            "rate": 2094.5497749489
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 106,
+        "fields": {
+            "code": "MNT",
+            "rate": 3378.5805103886
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 107,
+        "fields": {
+            "code": "MOP",
+            "rate": 8.0569113625
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 108,
+        "fields": {
+            "code": "MRO",
+            "rate": 356.999828
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 109,
+        "fields": {
+            "code": "MRU",
+            "rate": 39.6862084258
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 110,
+        "fields": {
+            "code": "MUR",
+            "rate": 46.338084838
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 111,
+        "fields": {
+            "code": "MVR",
+            "rate": 15.4479827831
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 112,
+        "fields": {
+            "code": "MWK",
+            "rate": 1733.5283876635
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 113,
+        "fields": {
+            "code": "MXN",
+            "rate": 17.1434333125
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 114,
+        "fields": {
+            "code": "MYR",
+            "rate": 4.7659807701
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 115,
+        "fields": {
+            "code": "MZN",
+            "rate": 63.5708421377
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 116,
+        "fields": {
+            "code": "NAD",
+            "rate": 18.7619728779
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 117,
+        "fields": {
+            "code": "NGN",
+            "rate": 1329.7985286562
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 118,
+        "fields": {
+            "code": "NIO",
+            "rate": 36.624357604
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 119,
+        "fields": {
+            "code": "NOK",
+            "rate": 11.0333018331
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 120,
+        "fields": {
+            "code": "NPR",
+            "rate": 133.4384643481
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 121,
+        "fields": {
+            "code": "NZD",
+            "rate": 1.6833403122
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 122,
+        "fields": {
+            "code": "OMR",
+            "rate": 0.3840800688
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 123,
+        "fields": {
+            "code": "OP",
+            "rate": 0.3813417207
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 124,
+        "fields": {
+            "code": "PAB",
+            "rate": 0.9990101685
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 125,
+        "fields": {
+            "code": "PEN",
+            "rate": 3.7534404235
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 126,
+        "fields": {
+            "code": "PGK",
+            "rate": 3.8169605107
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 127,
+        "fields": {
+            "code": "PHP",
+            "rate": 57.6942576609
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 128,
+        "fields": {
+            "code": "PKR",
+            "rate": 278.4424884179
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 129,
+        "fields": {
+            "code": "PLN",
+            "rate": 4.0355006852
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 130,
+        "fields": {
+            "code": "PYG",
+            "rate": 7457.4445357833
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 131,
+        "fields": {
+            "code": "QAR",
+            "rate": 3.6390303979
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 132,
+        "fields": {
+            "code": "RON",
+            "rate": 4.6501707536
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 133,
+        "fields": {
+            "code": "RSD",
+            "rate": 109.1612159172
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 134,
+        "fields": {
+            "code": "RUB",
+            "rate": 92.1306336628
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 135,
+        "fields": {
+            "code": "RWF",
+            "rate": 1290.4996139923
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 136,
+        "fields": {
+            "code": "SAR",
+            "rate": 3.7448205211
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 137,
+        "fields": {
+            "code": "SBD",
+            "rate": 8.2304682675
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 138,
+        "fields": {
+            "code": "SCR",
+            "rate": 14.6022120838
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 139,
+        "fields": {
+            "code": "SDG",
+            "rate": 601.5
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 140,
+        "fields": {
+            "code": "SEK",
+            "rate": 10.9425313901
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 141,
+        "fields": {
+            "code": "SGD",
+            "rate": 1.3616902544
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 142,
+        "fields": {
+            "code": "SHP",
+            "rate": 0.8003800895
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 143,
+        "fields": {
+            "code": "SLL",
+            "rate": 22620.70243969
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 144,
+        "fields": {
+            "code": "SOL",
+            "rate": 0.0070754364
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 145,
+        "fields": {
+            "code": "SOS",
+            "rate": 571.4776001464
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 146,
+        "fields": {
+            "code": "SRD",
+            "rate": 33.7353143436
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 147,
+        "fields": {
+            "code": "STD",
+            "rate": 22849.566649492
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 148,
+        "fields": {
+            "code": "STN",
+            "rate": 22.8495693075
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 149,
+        "fields": {
+            "code": "SVC",
+            "rate": 8.75
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 150,
+        "fields": {
+            "code": "SYP",
+            "rate": 13000.455248095
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 151,
+        "fields": {
+            "code": "SZL",
+            "rate": 18.794703093
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 152,
+        "fields": {
+            "code": "THB",
+            "rate": 37.000805564
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 153,
+        "fields": {
+            "code": "TJS",
+            "rate": 10.9346114228
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 154,
+        "fields": {
+            "code": "TMT",
+            "rate": 3.5
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 155,
+        "fields": {
+            "code": "TND",
+            "rate": 3.1293903241
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 156,
+        "fields": {
+            "code": "TOP",
+            "rate": 2.3561403598
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 157,
+        "fields": {
+            "code": "TRY",
+            "rate": 32.5057645367
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 158,
+        "fields": {
+            "code": "TTD",
+            "rate": 6.8076806876
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 159,
+        "fields": {
+            "code": "TWD",
+            "rate": 32.6174240801
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 160,
+        "fields": {
+            "code": "TZS",
+            "rate": 2577.5336773829
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 161,
+        "fields": {
+            "code": "UAH",
+            "rate": 39.7887860847
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 162,
+        "fields": {
+            "code": "UGX",
+            "rate": 3811.4460007373
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 163,
+        "fields": {
+            "code": "USD",
+            "rate": 1
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 164,
+        "fields": {
+            "code": "USDC",
+            "rate": 0.9989895699
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 165,
+        "fields": {
+            "code": "USDT",
+            "rate": 0.9994086358
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 166,
+        "fields": {
+            "code": "UYU",
+            "rate": 38.6660853733
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 167,
+        "fields": {
+            "code": "UZS",
+            "rate": 12680.96824507
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 168,
+        "fields": {
+            "code": "VEF",
+            "rate": 3633926.9565723
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 169,
+        "fields": {
+            "code": "VES",
+            "rate": 36.3392955149
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 170,
+        "fields": {
+            "code": "VND",
+            "rate": 25319.916984429
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 171,
+        "fields": {
+            "code": "VUV",
+            "rate": 120.1473926495
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 172,
+        "fields": {
+            "code": "WST",
+            "rate": 2.6821287561
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 173,
+        "fields": {
+            "code": "XAF",
+            "rate": 613.2344629089
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 174,
+        "fields": {
+            "code": "XAG",
+            "rate": 0.0367763591
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 175,
+        "fields": {
+            "code": "XAU",
+            "rate": 0.0004277258
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 176,
+        "fields": {
+            "code": "XCD",
+            "rate": 2.7
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 177,
+        "fields": {
+            "code": "XDR",
+            "rate": 0.7583201457
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 178,
+        "fields": {
+            "code": "XOF",
+            "rate": 613.234424159
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 179,
+        "fields": {
+            "code": "XPD",
+            "rate": 0.0010416682
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 180,
+        "fields": {
+            "code": "XPF",
+            "rate": 111.47752682
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 181,
+        "fields": {
+            "code": "XPT",
+            "rate": 0.0011144684
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 182,
+        "fields": {
+            "code": "XRP",
+            "rate": 1.9253342334
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 183,
+        "fields": {
+            "code": "YER",
+            "rate": 249.7991466568
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 184,
+        "fields": {
+            "code": "ZAR",
+            "rate": 18.7620534332
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 185,
+        "fields": {
+            "code": "ZMK",
+            "rate": 9001.2
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 186,
+        "fields": {
+            "code": "ZMW",
+            "rate": 26.5897237849
+        }
+    },
+    {
+        "model": "convertor.currency",
+        "pk": 187,
+        "fields": {
+            "code": "ZWL",
+            "rate": 361.9
+        }
+    }
+]

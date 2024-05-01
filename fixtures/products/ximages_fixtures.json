@@ -1,0 +1,23 @@
+[
+    {
+        "model": "dummy_products.ProductImage",
+        "fields": {
+            "product": 1,
+            "image": "downloaded_images\\https://cdn.dummyjson.com/product-images/1/1.jpg"
+        }
+    },
+    {
+        "model": "dummy_products.ProductImage",
+        "fields": {
+            "product": 2,
+            "image": "downloaded_images\\https://cdn.dummyjson.com/product-images/2/2.jpg"
+        }
+    },
+    {
+        "model": "dummy_products.ProductImage",
+        "fields": {
+            "product": 4,
+            "image": "downloaded_images\\https://cdn.dummyjson.com/product-images/4/4.jpg"
+        }
+    }
+]
